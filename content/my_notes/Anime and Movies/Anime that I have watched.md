@@ -2,7 +2,7 @@
 title: Anime that I have watched
 draft: false
 tags:
-  - example-tag
+  - anime
 ---
 ### Romance / Slice of Life / Shoujo
 

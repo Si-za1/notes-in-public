@@ -2,7 +2,7 @@
 title: Anytime can watch kinda anime
 draft: false
 tags:
-  - example-tag
+  - favorite_anime
 ---
  
 Ps: It's not based on order, instead based on my memories

@@ -1,8 +1,8 @@
 ---
-title: Anime Movie 
+title: Anime Movie
 draft: false
 tags:
-  - example-tag
+  - movie
 ---
  My favorites:
  
