@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz 4
+title: Welcome to my notes!
 ---
 
 Quartz is a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites. Thousands of students, developers, and teachers are [[showcase|already using Quartz]] to publish personal notes, websites, and [digital gardens](https://jzhao.xyz/posts/networked-thought) to the web.
@@ -43,4 +43,5 @@ For a comprehensive list of features, visit the [features page](./features/). Yo
 
 Having trouble with Quartz? Try searching for your issue using the search feature. If you haven't already, [[upgrading|upgrade]] to the newest version of Quartz to see if this fixes your issue.
 
-If you're still having trouble, feel free to [submit an issue](https://github.com/jackyzha0/quartz/issues) if you feel you found a bug or ask for help in our [Discord Community](https://discord.gg/cRFFHYye7t).
+If you're still having trouble, feel free to [Github](https://github.com/Si-za1/) if you feel you found a bug or ask for help in our [LinkedIn](https://www.linkedin.com/in/siza-adhikari-2a9574199/) [Youtube](https://www.youtube.com/@unfilteredgirlsclubbysiza) [Gumroad](https://sizaadhikari.gumroad.com/l/uxmmr)
+[Medium](https://medium.com/@starter-startler).
