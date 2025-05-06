@@ -4,6 +4,8 @@ longform:
   title: Notes from Research paper
   workflow: Default Workflow
   sceneFolder: /
-  scenes: []
+  scenes:
+    - Multilingual E5 Text Embeddings_A Technical Report
+  sceneTemplate: templates/Introduction.md
   ignoredFiles: []
 ---

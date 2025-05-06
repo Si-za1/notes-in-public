@@ -4,7 +4,8 @@ longform:
   title: LLM
   workflow: Default Workflow
   sceneFolder: /
-  scenes: []
+  scenes:
+    - Model Selection
   sceneTemplate: templates/Introduction.md
   ignoredFiles: []
 ---
