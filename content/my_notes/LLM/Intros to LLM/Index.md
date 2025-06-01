@@ -6,6 +6,7 @@ longform:
   sceneFolder: /
   scenes:
     - LLM note from video - Intros to LLM by Andrea
+    - Understanding RAG
   sceneTemplate: templates/Introduction.md
   ignoredFiles: []
 ---
