@@ -1,10 +1,12 @@
 ---
 title: Understanding RAG
-draft: true
+draft: false
 tags:
   - complete
 ---
-### **Everyone's Favorite Word: RAG**  
+June 01, 2025
+
+**Everyone's Favorite Word: RAG**  
 *(Because who doesn’t love stuffing LLMs with fresh knowledge?)*  
 
 #### **Let’s Break Down the Buzzword**  
