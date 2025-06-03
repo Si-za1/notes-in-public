@@ -63,3 +63,18 @@ Build a command-line tool that generates a short, themed affirmation quote using
     
 - **Solution:** Replaced `if` with `while` so the user is re-prompted until valid input is entered.
 
+---
+### 4. **Error: `'in <string>' requires string as left operand, not list`**
+
+- **Cause:** 
+    
+    `while genres not in user_choice:`
+    
+    Here, `genres` is a **list**, but `in` expects the **left operand to be a string** when checking membership in another string.
+    
+- **Fix:** Reverse the check to:
+    
+    `while user_choice not in genres:`
+    
+    Now, it's checking if the string `user_choice` is inside the list `genres`, which is correct.
+--- 
