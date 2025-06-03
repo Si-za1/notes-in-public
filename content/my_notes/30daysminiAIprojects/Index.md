@@ -9,3 +9,7 @@ longform:
   sceneTemplate: templates/Introduction.md
   ignoredFiles: []
 ---
+This will contain little notes and discussion on 30 mini AI projects that will be created in the process of learning Python and the use of different AI approaches, involving the language models use cases. 
+Projects might seem easy to achieve, but since it is the process of analyzing errors, learning the flow and the concept, starting small yet informative is the goal that I have on my mind.
+
+#HappyCodingandLearning !
