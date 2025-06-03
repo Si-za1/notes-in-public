@@ -15,7 +15,7 @@ Build a command-line tool that generates a short, themed affirmation quote using
 
 ## GitHub Repository
 
-📎 **Source Code:** [👉 _Add your GitHub repo link here_](https://github.com/Si-za1/python_for_beginners/blob/30daysai/30daysAI/day1.py)
+📎 **Source Code:** [👉 _GitHub repo link here_](https://github.com/Si-za1/python_for_beginners/blob/30daysai/30daysAI/day1.py)
 
 ---
 
