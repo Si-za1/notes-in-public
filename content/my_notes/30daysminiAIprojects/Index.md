@@ -6,6 +6,7 @@ longform:
   sceneFolder: /
   scenes:
     - affirmation_generator
+    - mood_catcher
   sceneTemplate: templates/Introduction.md
   ignoredFiles: []
 ---

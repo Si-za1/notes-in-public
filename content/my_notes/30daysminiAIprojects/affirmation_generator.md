@@ -3,6 +3,7 @@ title: affirmation_generator
 draft: false
 tags:
   - complete
+  - 30daysai
 ---
 
 # **Affirmation Generator – Study Note**
