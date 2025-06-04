@@ -103,3 +103,11 @@ We use OpenAI's `ChatCompletion` endpoint to summarize the user's mood in natura
 later found out change in the API response structure of the openai.
 
 ---
+**References:**
+- [Sentiment Analysis with TextBlob and VADER – Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/10/sentiment-analysis-with-textblob-and-vader/)
+- [Why TextBlob Might Not Be Enough – Medium](https://medium.com/data-science/my-absolute-go-to-for-sentiment-analysis-textblob-3ac3a11d524)
+
+## Code Reference
+
+- [GitHub – python_for_beginners (30 Days AI - Day 2)](https://github.com/Si-za1/python_for_beginners/blob/30daysai/30daysAI/day2.py)
+
