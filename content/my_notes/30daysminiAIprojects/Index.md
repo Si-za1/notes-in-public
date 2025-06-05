@@ -7,6 +7,7 @@ longform:
   scenes:
     - affirmation_generator
     - mood_catcher
+    - learning_threading-tocreate-selfcarereminder
   sceneTemplate: templates/Introduction.md
   ignoredFiles: []
 ---
