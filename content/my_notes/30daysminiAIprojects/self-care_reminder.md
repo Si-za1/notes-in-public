@@ -72,7 +72,7 @@ def reminder_generation():
             {"role": "user", "content": "Give me a unique quote based on the theme."}
         ]
     )
-    quote = response.choices[0].message["content"]
+    quote = response.choices[0].message.content
     print(f"\n💬 Reminder: {quote}")
 ```
 
