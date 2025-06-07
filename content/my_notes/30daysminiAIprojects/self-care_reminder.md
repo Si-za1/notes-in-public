@@ -94,3 +94,4 @@ Next steps might include adding desktop notifications or logging the quotes to a
 
 Stay tuned. More to come.
 
+Code: [Self care reminder](https://github.com/Si-za1/python_for_beginners/blob/30daysai/30daysAI/day3.py) 
