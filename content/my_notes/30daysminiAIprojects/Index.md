@@ -9,6 +9,7 @@ longform:
     - mood_catcher
     - learning_threading-tocreate-selfcarereminder
     - learning-__main__ and related things
+    - self-care_reminder
   sceneTemplate: templates/Introduction.md
   ignoredFiles: []
 ---
