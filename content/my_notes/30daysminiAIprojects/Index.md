@@ -10,6 +10,7 @@ longform:
     - learning_threading-tocreate-selfcarereminder
     - learning-__main__ and related things
     - self-care_reminder
+    - yeoman
   sceneTemplate: templates/Introduction.md
   ignoredFiles: []
 ---
