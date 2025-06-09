@@ -11,6 +11,7 @@ longform:
     - learning-__main__ and related things
     - self-care_reminder
     - yeoman
+    - calmbot
   sceneTemplate: templates/Introduction.md
   ignoredFiles: []
 ---
