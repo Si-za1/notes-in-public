@@ -12,6 +12,7 @@ longform:
     - self-care_reminder
     - yeoman
     - calmbot
+    - llm agents
   sceneTemplate: templates/Introduction.md
   ignoredFiles: []
 ---
