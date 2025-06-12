@@ -4,6 +4,8 @@ longform:
   title: Prompt
   workflow: Default Workflow
   sceneFolder: /
-  scenes: []
+  scenes:
+    - best practise
+  sceneTemplate: templates/Introduction.md
   ignoredFiles: []
 ---
