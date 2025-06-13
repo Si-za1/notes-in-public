@@ -10,6 +10,7 @@ longform:
     - module 3
     - part-2_module1
     - part-2_module2
+    - part2-module3
   sceneTemplate: templates/Introduction.md
   ignoredFiles: []
 ---
