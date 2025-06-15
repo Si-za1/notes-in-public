@@ -11,6 +11,8 @@ longform:
     - part-2_module1
     - part-2_module2
     - part2-module3
+    - amazon Q
+    - Responsible AI
   sceneTemplate: templates/Introduction.md
   ignoredFiles: []
 ---
