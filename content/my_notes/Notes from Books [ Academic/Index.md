@@ -6,6 +6,8 @@ longform:
   sceneFolder: /
   scenes:
     - Fundamentals of Data Engineering
+    - Introduction to Building AI Applications with Foundation Models
+    - Understanding Foundation Models
   sceneTemplate: templates/Introduction.md
   ignoredFiles: []
 ---
