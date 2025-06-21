@@ -9,6 +9,7 @@ longform:
     - Understanding RAG
     - Vector Stores essential in GenAI systems
     - Transformers- 3blue1brown
+    - Understanding Attention mechanism
   sceneTemplate: templates/Introduction.md
   ignoredFiles: []
 ---
