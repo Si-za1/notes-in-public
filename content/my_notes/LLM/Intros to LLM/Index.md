@@ -10,6 +10,7 @@ longform:
     - Vector Stores essential in GenAI systems
     - Transformers- 3blue1brown
     - Understanding Attention mechanism
+    - Where Facts in LLMs Live
   sceneTemplate: templates/Introduction.md
   ignoredFiles: []
 ---
