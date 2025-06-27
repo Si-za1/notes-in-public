@@ -13,6 +13,7 @@ longform:
     - yeoman
     - calmbot
     - llm agents
+    - Regression and related terms
   sceneTemplate: templates/Introduction.md
   ignoredFiles: []
 ---
