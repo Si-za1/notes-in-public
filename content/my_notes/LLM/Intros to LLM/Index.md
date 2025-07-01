@@ -11,6 +11,7 @@ longform:
     - Transformers- 3blue1brown
     - Understanding Attention mechanism
     - Where Facts in LLMs Live
+    - Notes from Andrej Karpathy talk
   sceneTemplate: templates/Introduction.md
   ignoredFiles: []
 ---
