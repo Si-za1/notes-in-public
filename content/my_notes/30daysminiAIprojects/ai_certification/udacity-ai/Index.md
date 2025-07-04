@@ -14,6 +14,7 @@ longform:
     - Foundation Models
     - Finetuning-models
     - Model cards
+    - my-own-agent
   sceneTemplate: templates/Introduction.md
   ignoredFiles: []
 ---
