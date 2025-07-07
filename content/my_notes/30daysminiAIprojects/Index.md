@@ -14,6 +14,7 @@ longform:
     - calmbot
     - llm agents
     - Regression and related terms
+    - prompt_routing
   sceneTemplate: templates/Introduction.md
   ignoredFiles: []
 ---
