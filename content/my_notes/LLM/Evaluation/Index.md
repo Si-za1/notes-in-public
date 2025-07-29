@@ -8,6 +8,7 @@ longform:
     - Working with BERT score
     - ROUGE and BLEU
     - RAGAS
+    - LLM evaluation
   sceneTemplate: templates/Introduction.md
   ignoredFiles: []
 ---
