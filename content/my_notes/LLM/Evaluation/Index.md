@@ -9,6 +9,7 @@ longform:
     - ROUGE and BLEU
     - RAGAS
     - LLM evaluation
+    - classification_models
   sceneTemplate: templates/Introduction.md
   ignoredFiles: []
 ---
