@@ -1,64 +1,10 @@
 ---
 title: Untitled
 draft: false
-tags: []
+tags:
+  - complete
 ---
-port 22 
-
-port 8181 
-
-
-route the traffic - via the local machine code 
-
-
-ssh tunneling - ssh port forwarding
-
-
-not listed in the white security group list 
-
-
-----
-connecting user - ipv4 - remote machine
-sizaadhikari@192  ~/downloads/Backup documents  ssh -i newpair.pem ec2-user@54.174.192.206 -L 8000:localhost:8181 -N
-
-
-sudo yum - update install 
-pip, python, then venv create
-install juplab
-insert pwd - siza1234
-[JupyterPasswordApp] Wrote hashed password to /home/ec2-user/.jupyter/jupyter_server_config.json
-
-(my_project) [ec2-user@ip-172-31-17-37 ~]$ jupyter-lab --no-browser --allow-root --port 8181
-
-http://54.174.192.206:8181/ - cannot access because - it is not whitelisted 
-so we use the ssh tunneling - so that we can run it over port 22 
-
-
-ssh -i newpair.pem ec2-us
-er@54.174.192.206 -L 8000:localhost:8181 -N 
-allowing only to login into the remote machine
-
-
-nohup jupyter-lab --no-browser --allow-root --port 8181 & -  & this allows them to run at the bg
-
-pem ssh -f -i newpair.pem ec2-user@54.174.192.206 -L 8000:localhost:8181 -N
-
-
-
-----
-Ec2
-
-aws signup 
-create account 
-
-a normal ec2 instance using 
-
-t2.micro free tier 
-
-
----
-
-# 🚀 A Journey from EC2 to S3
+# A Journey from EC2 to S3
 
 Starting a self-project on cloud infrastructure is an intense learning experience. This post details my journey setting up an end-to-end Machine Learning environment using AWS, specifically an EC2 instance for compute and S3 for storage. I cover the setup process, the real-world errors I faced, how I solved them, and the steps taken to train my first simple model.
 
@@ -118,7 +64,7 @@ I adopted a structured 7-step data science process for the Iris dataset:
 6. **Evaluation:** Achieved high accuracy on the test set, confirming the model's performance.
     
 
-## Phase 4: Next Steps
+## Phase 4: Next Steps [ Still need planning !!]
 
 The initial project is complete, but the learning continues. My next steps are focused on productionizing the model and further leveraging AWS services:
 

@@ -70,8 +70,6 @@ These are derived from the **confusion matrix**:
 Say you see this in the report for a class `Positive`:
 
 ```
-plaintext
-CopyEdit
               precision    recall  f1-score   support
      Positive     0.91        0.80     0.85       100
 
