@@ -1,12 +1,11 @@
 ---
 longform:
   format: scenes
-  title: LLM
+  title: "Minimal bookclub "
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Model Selection
-    - mcp_server
+    - "app building plan "
   sceneTemplate: templates/Introduction.md
   ignoredFiles: []
 ---
