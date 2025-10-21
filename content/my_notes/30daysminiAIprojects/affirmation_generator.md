@@ -8,7 +8,7 @@ tags:
 
 # **Affirmation Generator – Study Note**
 
-### 📌 Goal:
+### Goal:
 
 Build a command-line tool that generates a short, themed affirmation quote using the OpenAI API based on the genre selected by the user.
 
