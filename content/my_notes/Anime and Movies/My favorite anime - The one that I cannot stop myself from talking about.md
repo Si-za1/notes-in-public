@@ -14,8 +14,8 @@ Ps: It's not based on order, instead based on my memories
 5. Stien's Gate
 6. Zenshu
 7. Natsume: Book of friends
-8. - **Horimiya**
-9. **Kimi ni Todoke**
+8. Horimiya
+9. Kimi ni Todoke
 10. Blue Spring Ride (Ao Haru Ride)
 11. Snow White with the Red Hair (Akagami no Shirayuki-hime)
 12. Kaguya-sama: Love is War
@@ -48,3 +48,5 @@ Ps: It's not based on order, instead based on my memories
 39. That Time I Got Reincarnated as a Slime
 40. The Devil is a Part-Timer!
 41. My Next Life as a Villainess
+42. My dress-up darling
+43. 
