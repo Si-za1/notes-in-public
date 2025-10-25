@@ -3,7 +3,7 @@
 I believe learning compounds when shared.  
 These notes are:
 
-- 🧾 **Public but personal** — written in my voice, for future me and curious readers.
+- 🧾 **Public but personal** — written for future me and curious readers.
     
 - 🔄 **Continuously evolving** — updated as I learn, revise, or revisit topics. [Or, whenever I get time to polish!]
     

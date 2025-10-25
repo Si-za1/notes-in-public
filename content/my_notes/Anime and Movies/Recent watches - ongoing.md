@@ -25,3 +25,4 @@ October watch --
 11. The Banished Court Magician Aims to Become the Strongest
 12. Komi-san wa, Comyushou desu. 2nd Season
 13. Kakushigoto
+14. Hozuki coolheadness
