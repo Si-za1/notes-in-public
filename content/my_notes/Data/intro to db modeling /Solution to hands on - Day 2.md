@@ -1,7 +1,7 @@
 ---
-title: Untitled
+title: Solution to hands on - Day 2
 draft: false
-tags: []
+tags:
 ---
  
 ## Hands-On: Requirement Gathering Exercise

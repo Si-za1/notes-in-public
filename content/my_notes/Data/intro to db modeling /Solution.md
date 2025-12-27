@@ -1,7 +1,7 @@
 ---
-title: Untitled
+title: Solution to the handson for the ER diagram using crow foot notation
 draft: false
-tags: []
+tags:
 ---
  
 Solution In progress :)
