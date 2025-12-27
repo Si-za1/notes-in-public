@@ -52,7 +52,8 @@ Let's solve our movie similarity problem by finding the actual angles.
 So, now if we compare why some users have different taste . It means, their angle i.e. the angle between those user's preferences is high. 
 
 **Using Numpy:**
-![[Screenshot 2025-10-25 at 13.21.28.png]] ## Chapter 2: Linear Systems, Matrices, and Elimination
+
+  ![[Screenshot 2025-10-25 at 13.21.28.png]] ## Chapter 2: Linear Systems, Matrices, and Elimination
 
 the origin of the "linear" in linear algebra and a core motivation for inventing matrices is to solve problems involving multiple linear relationships at once.
 
@@ -124,4 +125,4 @@ We have now reached Row Echelon Form. The system is "triangular."
 **Result:** The shop can make **28 units of Blend A** and **26 units of Blend B**.
 
 **Using Numpy:**
-![[Screenshot 2025-10-25 at 13.22.24.png]] 
+ ![[Screenshot 2025-10-25 at 13.22.24.png]] 

@@ -26,3 +26,6 @@ October watch --
 12. Komi-san wa, Comyushou desu. 2nd Season
 13. Kakushigoto
 14. Hozuki coolheadness
+15. Yotsuiro Biyori
+
+---
