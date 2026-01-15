@@ -46,7 +46,7 @@ The JSON package has ****json.load()**** function that loads the JSON content 
 
 `import json`
 
-# `Read from file and parse JSON`
+#### `Read from file and parse JSON`
 `with open("sample.json", "r") as f:`
     `data = json.load(f)`
 
