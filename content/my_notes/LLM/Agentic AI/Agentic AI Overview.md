@@ -34,7 +34,9 @@ Tools used in the agentic approach are designed to enable AI systems to act aut
 
 That's why we have something called degrees of autonomy which describes on how agentic the system is or can be based on the task that we need to perform. 
 
-![[Pasted image 20260221134755.png]]![[Pasted image 20260221134925.png]]
+![[Pasted image 20260221134755.png]] 
+![[Pasted image 20260221134925.png]]
+
 
 ![[Screenshot 2026-02-21 at 13.45.54.png]]
 
